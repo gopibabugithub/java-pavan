@@ -27,3 +27,6 @@ what is repostory ?
 what is git bash vs git hub ?
 what is fork ?
 
+==========================
+
+Changes merge to stage 
