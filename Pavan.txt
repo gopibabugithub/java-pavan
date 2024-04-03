@@ -3,3 +3,27 @@ Hi Gopi
 Hi good Morning all
 New Changes
 Gopi changes
+
+git pull
+git push
+git add filename
+git log
+git status
+git commit -m  "message name"
+git merge 
+git switch branchname
+git orgin/branchname
+git fetch 
+git checkout branchname 
+git clone reporul
+git rebase fromBranch toBranch
+git config list
+git
+
+localarea
+stack area
+remote area
+what is repostory ?
+what is git bash vs git hub ?
+what is fork ?
+
